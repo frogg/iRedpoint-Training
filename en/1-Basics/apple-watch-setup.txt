@@ -1,0 +1,6 @@
+Apple Watch Advanced Settings
+To be able to see the latest stats and metrics on your watch while climbing, you should make sure that iRedpoint stays in the foreground during your workout sessions.
+Open the "Settings" app on your Apple Watch.
+Scroll down and go to “General".
+Select "Wake Screen" to show all available wake screen options.
+Under "On Screen Raise Show Last App" find "While in Session". This allows you to see the latest statistics while in a climbing workout session. Otherwise, the watch could return to the watch face after a while.

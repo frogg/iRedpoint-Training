@@ -1,0 +1,5 @@
+Title of the instruction
+Introduction to the topic. This can be a small sentence. It will be displayed prominentely above the instruction text.
+This is where the instruction itself starts.
+Each new lins means a new paragraph in the instruction.
+Each paragraph can have its own image or media (.png, .jpg, .jpeg, .mp4).

@@ -1,0 +1,5 @@
+Climbing Rules
+There are some rules that define how a route should be climbed to comply with “official climbing laws”. Or, you can be an outlaw and climb rainbow-routes.
+Every route has a start and a top. Start with your hands at the start holds and put your feet on bottom holds, against the wall, or on a volume. They are not allowed to touch the ground. Some routes have a “run-in” start. This means that you dynamically jump into the route. There should be a little hint at the start of the route that tells you if this is a run-in.
+Ask your gym how they mark the routes. Different gyms use different ways to show the start and the top of each route, as well as the difficulty.
+When climbing a route you should only use holds of one color — that’s how the route was defined. Also your feet should only touch holds of this color. In most cases you are allowed to use the wall, edges and volumes as well — unless a note at the start of the route prohibits it.

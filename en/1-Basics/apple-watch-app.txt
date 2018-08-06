@@ -1,0 +1,6 @@
+Apple Watch App
+iRedpoint includes a powerful Apple Watch app. Use it to track your climbing activity while you’re in the gym.
+You can wear your Apple Watch while bouldering. Some people even like to connect AirPods to their watch and listen to their own music. It is not required to have your iPhone connected to your watch while climbing. The app was designed to run offline and to transfer your workout session to the iPhone app once the connection is re-estasblished.
+Before you start climbing, start the iRedpoint App on your Apple Watch. Press the digital crown to go to your home screen and select iRedpoint. 
+Then, press on “Start Bouldering”. During your bouldering session iRedpoint will provide the number of ascents, elapsed time, total climbed meters and heart rate. 
+When finished with the session, swipe left and select “Finish Bouldering”. The Apple Watch will then process your workout data and send it to your iPhone. You can then see the detailed workout information in the iPhone app.
